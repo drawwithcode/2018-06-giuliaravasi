@@ -1,0 +1,27 @@
+{ "recipe" :
+  [{
+    "title": "Tomato Basil Soup (La Madeleine copycat)",
+    "directions": [
+      "Combine tomatoes, juice/and or possibly stock in saucepan.",
+      "Simmer 30 min.",
+      "Puree, along with the basil leaves, in small batches,",
+      "in blender or food processor or use an immersion blender in the pan.",
+      "Return to saucepan and add in cream and butter, while stirring over low heat.",
+      "Garnish with basil leaves and serve with your favorite bread."
+    ],
+    "ingredients": [
+      "4 c tomatoes, minced, peeled, and cored",
+      "4 cup vegetable stock",
+      "12 basil leaves",
+      "1 c heavy cream",
+      "1/4 lb unsalted butter",
+      "Salt",
+      "1/4 tsp black pepper"
+    ],
+    "prep_time": 0,
+    "total_time": 0,
+    "recipe_yield": 7,
+    "img": "",
+    "url": "http://cookeatshare.com/recipes/la-madeleine-s-tomato-basil-soup-318026"
+  }]
+}
