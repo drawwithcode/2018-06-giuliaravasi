@@ -61,6 +61,7 @@ function draw() {
    var line3_1 = recipe1.directions[2];
    var line4_1 = recipe1.directions[3];
    textAlign(CENTER);
+   textSize(16);
    text(line1_1, width/2 - 450, height/3 + 200);
    text(line2_1, width/2 - 450, height/3 + 230);
    text(line3_1, width/2 - 450, height/3 + 260);
@@ -88,6 +89,7 @@ function draw() {
   var line3_2= recipe2.directions[2];
   var line4_2= recipe2.directions[3];
   textAlign(CENTER);
+  textSize(16);
   text(line1_2, width/2, height/3 + 200);
   text(line2_2, width/2, height/3 + 230);
   text(line3_2, width/2, height/3 + 260);
@@ -116,6 +118,7 @@ function draw() {
   var line4_3= recipe3.directions[3];
   var line5_3= recipe3.directions[4];
   textAlign(CENTER);
+  textSize(16);
   text(line1_3, width/2 + 450, height/3 + 200);
   text(line2_3, width/2 + 450, height/3 + 230);
   text(line3_3, width/2 + 450, height/3 + 260);
